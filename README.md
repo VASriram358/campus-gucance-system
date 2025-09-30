@@ -1,1 +1,1 @@
-# campus-gucance-system
+# campus-guidance-system
